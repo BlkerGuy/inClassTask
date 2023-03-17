@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+.card-space-between{
+    display: flex;
+    justify-content: space-evenly
+}
+
+.card-box-bg{
+    height: 150px;
+}
+
+.card-image-size{
+    height: 60px;
+}
+
+.paragraph-size{
+    font-size: 10px
+}
+
+.border-customize{
+    border:1px solid rgba(255, 255, 255, 0.5) ;
+    border-radius: 100%;
+    position: absolute; top:-40px; right: 40%;
+}
